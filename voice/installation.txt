@@ -1,0 +1,19 @@
+**** ubuntu*****
+python 2.7 and python 3.5 are already installed
+
+1)sudo apt-get update
+2)sudo apt-get upgrade
+
+#install pip-python package manager
+3) For 2.7  -   sudo apt-get install python-pip
+   For 3.5  -   sudo apt-get install python3-pip
+  
+#upgrade pip
+ pip install --upgrade pip
+
+#numpy
+ pip install numpy  for 2.7
+ pip3 install numpy  for 3.5
+#opencv
+ pip install opencv-python-2.7
+ pip3 install opencv-python-3.5
